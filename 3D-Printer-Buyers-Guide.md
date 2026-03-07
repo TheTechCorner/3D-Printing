@@ -27,4 +27,6 @@ Here is a list of items to consider when buying a 3D printer.
 
 - Safety Features: Safety features to look for, such as enclosed build chambers, fume filters, and thermal runaway protection, particularly important in educational environments or homes with children.
 
-- Upgradability - Reparability: Can the printer be upgraded with new components or firmware to extend its lifespan and improve functionality. How easy is it to repair or how difficult is it to get repairs.
+- Upgradability - Reparability: Can the printer be upgraded with new components or firmware to extend its lifespan and improve functionality. How easy is it to repair or how difficult is it to get repair parts.
+
+- Multiple Colors: Would you like to be able to print multiple colors automatically.
